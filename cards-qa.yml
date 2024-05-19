@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to EazyBank cards related QA APIs "
   contactDetails:
-    name: "Cherryl Trin - QA Lead"
+    name: "Asif - QA Lead"
     email: "cherryl@eazybank.com"
   onCallSupport:
     - (310) 875-8416
