@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to EazyBank cards related production APIs "
   contactDetails:
-    name: "Mr.Ali - Product Owner"
+    name: "Mr.Ali Hossain - Product Owner"
     email: "sandra@eazybank.com"
   onCallSupport:
     - (617) 432-2356
