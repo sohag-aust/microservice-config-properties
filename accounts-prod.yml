@@ -4,8 +4,8 @@ build:
 accounts:
   message: "Welcome to accounts microservice related production APIs "
   contactDetails:
-    name: "Md. Ali Hossain- Product Owner"
-    email: "ali@info.com"
+    name: "Md. Ashraful Islam- Product Owner"
+    email: "shohag@info.com"
   onCallSupport:
     - (453) 01724575158
     - (236) 203-0384
