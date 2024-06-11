@@ -2,10 +2,10 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related production APIs "
+  message: "Welcome to cards microservice related production APIs "
   contactDetails:
     name: "Mr.Ali Hossain - Product Owner"
-    email: "sandra@eazybank.com"
+    email: "hossain@info.com"
   onCallSupport:
     - (617) 432-2356
     - (936) 564-8721
