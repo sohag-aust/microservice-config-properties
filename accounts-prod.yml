@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to accounts microservice related production APIs "
   contactDetails:
     name: "Md.Hossain Ali - Product Owner"
-    email: "aishwarya@eazybank.com"
+    email: "ali@info.com"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
