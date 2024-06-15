@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related local APIs "
   contactDetails:
     name: "Ashraful - Developer"
-    email: "who_are_you.com"
+    email: "who_are_you?.com"
   onCallSupport:
     - (555) 090078401
     - (555) 523-1345
