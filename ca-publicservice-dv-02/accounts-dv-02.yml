@@ -4,8 +4,8 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related dv-02 APIs "
   contactDetails:
-    name: "Ashraful - Developer"
-    email: "john@info.com"
+    name: "Ashraful Islam- Developer"
+    email: "shohag@info.com"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
