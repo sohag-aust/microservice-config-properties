@@ -1,8 +1,8 @@
 build:
-  version: "3.0"
+  version: "1.0"
 
 accounts:
-  message: "Account Microservice | Host - public-service-dv-01"
+  message: "Account Microservice | Host - ca-public-service-dv-01"
   contactDetails:
     name: "Ashraful - Developer"
     email: "shohag@meta.com"
