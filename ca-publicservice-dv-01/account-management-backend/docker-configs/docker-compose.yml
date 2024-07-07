@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  account-management-backend:
+    image: "ashrafulsohag/accounts:config"
+    container_name: account-service-01
+    restart: always
+    ports:
+      - 8080:8080
+
+    networks:
+      - accountservice
+
+    environment:
+      SPRING_APPLICATION_NAME: accounts
+      SPRING_CONFIG_IMPORT: configserver:http://nginx:5000/
+      # here first configserver is spring format, and second configserver is docker service name
+      SPRING_PROFILES_ACTIVE: dv-01
+      SPRING_RABBIT_HOST: rabbit
+      SPRING_RABBIT_PORT: 5672
+
+networks:
+  accountservice:
+    external: true
