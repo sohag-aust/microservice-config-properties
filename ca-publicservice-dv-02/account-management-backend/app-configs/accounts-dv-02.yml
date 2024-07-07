@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Account Microservice | Host - ca-public-service-dv-02"
+  message: "Account User Microservice | Host - ca-public-service-dv-02"
   contactDetails:
     name: "Ashraful - Developer"
     email: "shohag@google.com"
