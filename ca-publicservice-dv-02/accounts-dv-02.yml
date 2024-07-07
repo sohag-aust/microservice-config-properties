@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related dv-02 APIs "
+  message: "Account microservice related dv-02 APIs "
   contactDetails:
     name: "Ashraful Islam Shohag- Developer"
     email: "shohag@info.com"
